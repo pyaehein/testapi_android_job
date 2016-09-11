@@ -10,7 +10,7 @@
       "town": "yangon",
       "min_experience": "2 year (Senior Executive)",
       "salary": "200,000ks",
-      "phones": [
+      "ph": [
         "0912345678",
         "09987654321",
         "056420424"
@@ -39,7 +39,7 @@
       "town": "yangon",
       "min_experience": "1 year (Junior)",
       "salary": "200,000ks",
-      "phones": [
+      "ph": [
         "0912345678",
         "09987654321",
         "056420424"
