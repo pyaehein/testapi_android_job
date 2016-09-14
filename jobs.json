@@ -11,9 +11,15 @@
       "min_experience": "2 year (Senior Executive)",
       "salary": "200,000ks",
       "phones": [
-        "0912345678",
-        "09987654321",
-        "056420424"
+        {
+          "number": "0912345678"
+        },
+        {
+          "number": "09987654321"
+        },
+        {
+          "number": "056420424"
+        }
       ],
       "requirements": [
         {
@@ -52,9 +58,15 @@
       "min_experience": "1 year (Junior)",
       "salary": "200,000ks",
       "phones": [
-        "0912345678",
-        "09987654321",
-        "056420424"
+        {
+          "number": "0912345678"
+        },
+        {
+          "number": "09987654321"
+        },
+        {
+          "number": "056420424"
+        }
       ],
       "requirements": [
         {
