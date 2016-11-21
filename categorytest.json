@@ -1,78 +1,72 @@
-[
-   {
-      "storecategory_id":3,
-      "storecategory_name":"Weddings & Events",
-      "children":[
-
+{
+  "data": [
+    {
+      "storecategory_id": 3,
+      "storecategory_name": "Weddings & Events",
+      "children": []
+    },
+    {
+      "storecategory_id": 10,
+      "storecategory_name": "Hoodies & Sweatshirts",
+      "children": [
+        {
+          "storecategory_id": 12,
+          "storecategory_name": "Tops & Tees"
+        },
+        {
+          "storecategory_id": 11,
+          "storecategory_name": "Sweaters"
+        }
       ]
-   },
-   {
-      "storecategory_id":10,
-      "storecategory_name":"Hoodies & Sweatshirts",
-      "children":[
-         {
-            "storecategory_id":12,
-            "storecategory_name":"Tops & Tees"
-         },
-         {
-            "storecategory_id":11,
-            "storecategory_name":"Sweaters"
-         }
+    },
+    {
+      "storecategory_id": 9,
+      "storecategory_name": "Jackets & Coats",
+      "children": [
+        {
+          "storecategory_id": 8,
+          "storecategory_name": "Blouses & Shirts"
+        }
       ]
-   },
-   {
-      "storecategory_id":9,
-      "storecategory_name":"Jackets & Coats",
-      "children":[
-         {
-            "storecategory_id":8,
-            "storecategory_name":"Blouses & Shirts"
-         }
+    },
+    {
+      "storecategory_id": 7,
+      "storecategory_name": "Dresses",
+      "children": [
+        {
+          "storecategory_id": 8,
+          "storecategory_name": "Blouses & Shirts"
+        }
       ]
-   },
-   {
-      "storecategory_id":7,
-      "storecategory_name":"Dresses",
-      "children":[
-         {
-            "storecategory_id":8,
-            "storecategory_name":"Blouses & Shirts"
-         }
+    },
+    {
+      "storecategory_id": 6,
+      "storecategory_name": "Shoes",
+      "children": []
+    },
+    {
+      "storecategory_id": 5,
+      "storecategory_name": "Phone Bags & Cases",
+      "children": []
+    },
+    {
+      "storecategory_id": 4,
+      "storecategory_name": "Mobile Phones",
+      "children": [
+        {
+          "storecategory_id": 1,
+          "storecategory_name": "Women's Clothing & Accessories"
+        },
+        {
+          "storecategory_id": 3,
+          "storecategory_name": "Weddings & Events"
+        }
       ]
-   },
-   {
-      "storecategory_id":6,
-      "storecategory_name":"Shoes",
-      "children":[
-
-      ]
-   },
-   {
-      "storecategory_id":5,
-      "storecategory_name":"Phone Bags & Cases",
-      "children":[
-
-      ]
-   },
-   {
-      "storecategory_id":4,
-      "storecategory_name":"Mobile Phones",
-      "children":[
-         {
-            "storecategory_id":1,
-            "storecategory_name":"Women's Clothing & Accessories"
-         },
-         {
-            "storecategory_id":3,
-            "storecategory_name":"Weddings & Events"
-         }
-      ]
-   },
-   {
-      "storecategory_id":2,
-      "storecategory_name":"Men's Clothing & Accessories",
-      "children":[
-
-      ]
-   }
-]
+    },
+    {
+      "storecategory_id": 2,
+      "storecategory_name": "Men's Clothing & Accessories",
+      "children": []
+    }
+  ]
+}
